@@ -1,3 +1,6 @@
+body {
+	padding:0px; margin:0px;
+}
 #navbox {
 	float:left;
 	
@@ -7,4 +10,12 @@
 	background-color:#000000;
 	margin:0px;
 	text-align: center;
+}
+#innernav {
+	float:left;
+}
+#meat {
+	margin: 0 auto;
+	position:absolute;
+	left:50%;
 }
