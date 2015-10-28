@@ -1,8 +1,13 @@
 body {
 	padding:0px; margin:0px;
+	background-image:url("Granite.jpg");
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #navbox {
-	float:left;
 	
 }
 #headerpic {
@@ -13,9 +18,15 @@ body {
 }
 #innernav {
 	float:left;
+	text-align:center;
+	width:13.33%;
+	background-color:#000000;
+	
 }
 #meat {
-	margin: 0 auto;
 	position:absolute;
-	left:50%;
+	width:80%;
+	left: 10%;
+	right: 10%;
+	
 }
