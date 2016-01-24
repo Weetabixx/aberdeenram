@@ -46,15 +46,12 @@ body {
 	margin:-1%;
 	margin-top:-4%;
 	z-index:2;
-	
 }
 #meat {
 	position:absolute;
 	width:80%;
 	left: 10%;
 	right: 10%;
-	
-	
 }
 #content {
 	width:100%;
